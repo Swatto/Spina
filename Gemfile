@@ -8,7 +8,7 @@ group :development, :test do
   gem 'quiet_assets'
   gem 'letter_opener'
   gem 'brakeman'
-  gem 'spina-template', github: 'denkGroot/Spina-template'
+  gem 'spina-template', github: 'Swatto/Spina-template', branch: 'theme_overwrite_color'
   gem 'better_errors'
   gem 'binding_of_caller'
   gem 'minitest-reporters'
